@@ -1,1 +1,1 @@
-A realistic pendulum numerical simulation.
+A realistic pendulum numerical simulation written in Python.
